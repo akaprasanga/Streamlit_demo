@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import plotly.express as px
+import plotly.figure_factory as ff
 import warnings 
 import streamlit as st
 warnings.filterwarnings("ignore") 
